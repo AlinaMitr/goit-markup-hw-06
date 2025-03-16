@@ -919,3 +919,15 @@ textarea {
   bbox-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #404bbf;
 }
+@media screen and (min-width: 768px) {
+  .modal {
+    width: 408px;
+    min-height: 584px;
+}
+.modal-text-p {
+  width: 360px;
+}
+
+@media screen and (min-width: 1158px) {
+
+}
